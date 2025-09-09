@@ -1,4 +1,4 @@
-str_example = 'hello, python!'
+str_example = 'hello,python!'
 print(str_example[0])
 print(str_example[1])
 print(str_example[2])

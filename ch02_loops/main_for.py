@@ -14,7 +14,7 @@ for i in range(10):
     print(i)
 '''
 이상에서 중요한 것은 마찬가지로 i가 0부터 시작한다는 점입니다.
-이를ㄹ Java / JS로 풀면
+이를 Java / JS로 풀면
 for (int i = 0 ; i < 10; i++) {
     System.out.print(i + 1);
 }
